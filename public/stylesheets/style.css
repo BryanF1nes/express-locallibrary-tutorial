@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #158644;
+  color: #1eadd1;
   font-size: 14px;
 }
 
@@ -12,5 +12,9 @@ a {
   margin-top: 20px;
   padding: 0;
   list-style: none;
+}
+
+label {
+  padding: 5px 0px;
 }
 
